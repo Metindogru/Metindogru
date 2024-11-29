@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Metin DOĞRU</h1>
 
-- 🔭 I’m currently working on Electronics and Programmig
+- 🔭 I’m currently working on React Developer
 
 - 🌱 I’m currently learning **React Native and React Back-End**
 
