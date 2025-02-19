@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **React-Frontend & React-Native Developer**
 
-- 🌱 I’m currently learning **React Backend & Node.js**
+- 🌱 I’m currently learning **Nodejs Backend & MERN Stack**
 
 - 👯 I’m looking to collaborate on **improving myself more**
 
 - 💬 Ask me about **JavaScript, TypeScript, React, React-Native**
 
-- 📫 How can you reach me: [metin.dogru@hotmail.com.tr](metin.dogru@hotmail.com.tr)
+- 📫 How can you reach me: (metin.dogru@hotmail.com.tr)
 
 - ⚡ Fun fact **Technology in the future..**
 
