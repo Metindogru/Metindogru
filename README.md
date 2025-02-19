@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React, React-Native**
 
-- 📫 How can you reach me: (metin.dogru@hotmail.com.tr)
+- 📫 How can you reach me: metin.dogru@hotmail.com.tr
 
 - ⚡ Fun fact **Technology in the future..**
 
